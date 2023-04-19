@@ -1,4 +1,8 @@
 {
+  "name": "testcafe24",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "start": "node ./web.js"
   },
